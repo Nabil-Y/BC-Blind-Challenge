@@ -4,7 +4,7 @@
 
 Recreating a landing page from a [Youtube challenge](https://www.youtube.com/watch?v=DNQM-VmjoBQ)
 
-Integrate the home page hero of (mobile.club) in 30 minutes. You can only look at the results after 25 minutes.
+Integrate the home page hero of [this page](mobile.club) in 30 minutes. You can only look at the results after 25 minutes.
 
 Great fail after 25min. 
 
